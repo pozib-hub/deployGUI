@@ -1,0 +1,5 @@
+{
+    "deploy": "git@github.com:Bpium/deploy.git",
+    "bpium-saas": "git@github.com:Bpium/bpium-saas.git",
+    "builder": "git@github.com:Bpium/builder.git"
+}
